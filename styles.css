@@ -25,7 +25,7 @@ header {
 
 .hero {
     height: 400px;
-    background-image: url('AustinSkyline.jpg');
+    background-image: url('images/AustinSkyline.jpg');
     background-size: cover;
     background-position: center;
     border-radius: 15px;
